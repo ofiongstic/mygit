@@ -1,0 +1,25 @@
+header {
+    background-color: #080808;
+    text-align: left;
+    color: gray;
+    padding: 25px;
+}
+
+body {
+    margin: 0;
+    text-align: center;
+    background-color: #101010;
+    color: gray;
+    overflow: inherit;
+    padding: 50px;
+}
+span{
+    color: red;
+}
+select{
+    width: 175px;
+}
+button{
+    width: 100px;
+    height: 30px;
+}
