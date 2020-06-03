@@ -1,0 +1,2 @@
+# mygit
+Testing github functions
